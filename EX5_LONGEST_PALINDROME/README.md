@@ -1,6 +1,6 @@
-* Given a string s, return the longest palindromic substring in s.
+## Given a string s, return the longest palindromic substring in s.
 
-* Example:
+### Example:
 	Input: 'babad'
 	Output: 'bab'
 
