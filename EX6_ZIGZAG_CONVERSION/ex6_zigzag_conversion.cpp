@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-class Solution{
+class Solution {
     
     public:
 
